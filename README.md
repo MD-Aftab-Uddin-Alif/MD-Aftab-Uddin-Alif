@@ -3,11 +3,15 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 👨‍💻 All of my university notes are available at [https://drive.google.com/drive/folders/1Ivm-CNkqrWTqK2hgJ-R_4ASkUWGIlXY-?usp=sharing](https://drive.google.com/drive/folders/1Ivm-CNkqrWTqK2hgJ-R_4ASkUWGIlXY-?usp=sharing)
+
 - 📫 How to reach me **mdaftabuddinalif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aftab uddin alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab uddin alif" height="30" width="40" /></a>
 <a href="https://fb.com/aftab uddin alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aftab uddin alif" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aaftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aaftab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
