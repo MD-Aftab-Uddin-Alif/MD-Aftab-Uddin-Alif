@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my university notes are available at [https://drive.google.com/drive/folders/1Ivm-CNkqrWTqK2hgJ-R_4ASkUWGIlXY-?usp=sharing](https://drive.google.com/drive/folders/1Ivm-CNkqrWTqK2hgJ-R_4ASkUWGIlXY-?usp=sharing)
+- 📚 All of my university documents are available at [https://drive.google.com/drive/folders/1Ivm-CNkqrWTqK2hgJ-R_4ASkUWGIlXY-?usp=sharing](https://drive.google.com/drive/folders/1Ivm-CNkqrWTqK2hgJ-R_4ASkUWGIlXY-?usp=sharing)
 
 - 📫 How to reach me **mdaftabuddinalif@gmail.com**
 
