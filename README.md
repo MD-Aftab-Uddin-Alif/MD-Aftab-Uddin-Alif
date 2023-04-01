@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Aftab Uddin Alif</h1>
-<h3 align="center">A passionate app developer from Bangladesh</h3>
+<h3 align="center">App Developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
+
+- 📫 How to reach me **mdaftabuddinalif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
