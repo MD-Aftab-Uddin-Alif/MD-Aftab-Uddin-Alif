@@ -20,8 +20,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-aftab-uddin-alif&show_icons=true&locale=en&layout=compact" alt="md-aftab-uddin-alif" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-aftab-uddin-alif&" alt="md-aftab-uddin-alif" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-aftab-uddin-alif&show_icons=true&locale=en" alt="md-aftab-uddin-alif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-aftab-uddin-alif&" alt="md-aftab-uddin-alif" /></p>
 
 
